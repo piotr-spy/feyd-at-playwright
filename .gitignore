@@ -1,4 +1,6 @@
-# Compiled class file
+target/
+playwright/.cache/
+.DS_Store# Compiled class file
 *.class
 
 # Log file
